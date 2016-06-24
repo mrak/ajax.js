@@ -1,0 +1,8 @@
+{
+  "name": "ajax.js",
+  "version": "1.0.0",
+  "description": "small ajax library",
+  "main": "index.js",
+  "author": "Eric Mrak <mail@ericmrak.info>",
+  "license": "MIT"
+}
